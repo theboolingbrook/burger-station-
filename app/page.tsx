@@ -116,7 +116,7 @@ export default function Home() {
               {branches.map((branch) => (
                 <div
                   key={branch.name}
-                  className="group space-y-6 p-8 bg-zinc-900/20 rounded-3xl border border-zinc-800/50 hover:border-primary/30 transition-all duration-500 hover:bg-zinc-900/40 relative overflow-hidden"
+                  className="group space-y-6 p-8 bg-zinc-900/20 rounded-3xl border border-zinc-800/50 hover:border-primary/30 transition-all duration-500 hover:bg-zinc-900/40 relative overflow-visible"
                 >
                   <div className="absolute top-0 right-0 w-24 h-24 bg-primary/5 rounded-full -mr-12 -mt-12 transition-transform duration-700 group-hover:scale-150" />
                   <div className="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center text-primary border border-primary/20 group-hover:bg-primary group-hover:text-black transition-all duration-500 shadow-xl">

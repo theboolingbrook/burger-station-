@@ -14,7 +14,10 @@ export function Hero() {
   }
 
   return (
-    <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
+    <section
+  id="home"
+  className="relative min-h-screen flex items-center justify-center overflow-x-hidden overflow-y-visible"
+>
       {/* Cinematic Background */}
       <div className="absolute inset-0 z-0">
         <Image
