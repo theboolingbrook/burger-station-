@@ -29,7 +29,7 @@ export const menuItems: MenuItem[] = [
     name: "Grill Burger", 
     price: 690, 
     category: "burgers", 
-    image: "https://i.postimg.cc/zDc982z1/Whats-App-Image-2026-01-07-at-2-33-25-AM.jpg"
+    image: "https://i.postimg.cc/BZPrwkkn/Gemini-Generated-Image-45bzrv45bzrv45bz.png"
   },
   { 
     id: "b4", 
@@ -94,7 +94,7 @@ export const menuItems: MenuItem[] = [
     name: "Flaming Twister", 
     price: 590, 
     category: "twisters", 
-    image: "=80https://i.postimg.cc/nzDQMcjh/Whats-App-Image-2026-01-07-at-4-57-56-AM-(1).jpg"
+    image: "https://i.postimg.cc/nzDQMcjh/Whats-App-Image-2026-01-07-at-4-57-56-AM-(1).jpg"
   },
   { 
     id: "t3", 
@@ -174,7 +174,7 @@ export const menuItems: MenuItem[] = [
     name: "Nuggets (6 Pcs)", 
     price: 330, 
     category: "sides", 
-    image: "https://images.unsplash.com/photo-1562967916-eb82221dfb38?w=800&q=80"
+    image: "https://i.postimg.cc/DyCRS532/Whats-App-Image-2026-01-07-at-4-57-55-AM-(6).jpg"
   },
   { 
     id: "sd4", 
