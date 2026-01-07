@@ -15,7 +15,8 @@ export function MenuCard({ item }: { item: MenuItem }) {
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      className="group relative overflow-hidden rounded-3xl bg-zinc-900/30 backdrop-blur-md p-3 border border-zinc-800/50 hover:border-primary/50 transition-all duration-500 shadow-lg"
+      className="group relative shrink-0 w-[85vw] sm:w-auto overflow-visible rounded-3xl bg-zinc-900/30 backdrop-blur-md p-3 border border-zinc-800/50 transition-all duration-500 shadow-lg"
+
     >
       <div className="relative aspect-[4/5] overflow-hidden rounded-2xl mb-4 bg-zinc-800">
         <Image
