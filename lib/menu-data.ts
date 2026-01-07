@@ -29,7 +29,7 @@ export const menuItems: MenuItem[] = [
     name: "Grill Burger", 
     price: 690, 
     category: "burgers", 
-    image: "https://i.postimg.cc/BZPrwkkn/Gemini-Generated-Image-45bzrv45bzrv45bz.png"
+    image: "https://i.postimg.cc/zDc982z1/Whats-App-Image-2026-01-07-at-2-33-25-AM.jpg"
   },
   { 
     id: "b4", 
@@ -143,7 +143,7 @@ export const menuItems: MenuItem[] = [
     price: 720, 
     category: "sliders", 
     isPair: true, 
-    image: "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800&q=80"
+    image: "https://i.postimg.cc/BZPrwkkn/Gemini-Generated-Image-45bzrv45bzrv45bz.png"
   },
   { 
     id: "s6", 
